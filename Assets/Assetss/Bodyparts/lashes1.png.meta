@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 6c7f01a2278ca1e48813b768b2e4161c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 168109789032407679
+    second: lashes1_0
+  - first:
+      213: -8262288192546556056
+    second: lashes1_1
+  - first:
+      213: 4275987096194405681
+    second: lashes1_2
+  - first:
+      213: 4634998841677804505
+    second: lashes1_3
+  - first:
+      213: -3275410637651014291
+    second: lashes1_4
+  - first:
+      213: 15491350978129439
+    second: lashes1_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lashes1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 2291
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.03443386, y: 0.5295352}
+      border: {x: 39, y: 0, z: 46, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ea8266fe355200800000000000000
+      internalID: 168109789032407679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lashes1_1
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 3
+        width: 2264
+        height: 1311
+      alignment: 9
+      pivot: {x: 0.031443782, y: 0.51841784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867bb531aa4765d80800000000000000
+      internalID: -8262288192546556056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lashes1_2
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 68
+        width: 2243
+        height: 1233
+      alignment: 9
+      pivot: {x: 0.018972872, y: 0.49871272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13552dcdb9b575b30800000000000000
+      internalID: 4275987096194405681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lashes1_3
+      rect:
+        serializedVersion: 2
+        x: 9185
+        y: 113
+        width: 2324
+        height: 1198
+      alignment: 9
+      pivot: {x: 0.033949833, y: 0.47587404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37d84a3e2d25040800000000000000
+      internalID: 4634998841677804505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lashes1_4
+      rect:
+        serializedVersion: 2
+        x: 12438
+        y: 27
+        width: 2312
+        height: 1265
+      alignment: 9
+      pivot: {x: 0.03284494, y: 0.5179627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d864101676b82d0800000000000000
+      internalID: -3275410637651014291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lashes1_5
+      rect:
+        serializedVersion: 2
+        x: 15291
+        y: 78
+        width: 2371
+        height: 1214
+      alignment: 9
+      pivot: {x: 0.051988054, y: 0.49888894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e64283d49073000800000000000000
+      internalID: 15491350978129439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8210c36ce3a2f664aafd4a0d002558e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lashes1_0: 168109789032407679
+      lashes1_1: -8262288192546556056
+      lashes1_2: 4275987096194405681
+      lashes1_3: 4634998841677804505
+      lashes1_4: -3275410637651014291
+      lashes1_5: 15491350978129439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
